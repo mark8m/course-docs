@@ -6,10 +6,15 @@
 
 * **Email**: <hazel.campbell@ualberta.ca>
 * **Office**: ATH 4-05
-* **Office hours (ATH 4-05):** TBA
+* **Office hours (ATH 4-05):** Friday after lecture
 * **Office hours (Zoom):** _(email to make an appointment)_
 
 ## Dr. Mark Polak
+
+* **Email**: <mpolak1@ualberta.ca>
+* **Office**: CAB 3-05
+* **Office hours (CAB 3-05):** TBA
+* **Office hours (Zoom):** _(email to make an appointment)_
 
 ## Course Content
 
@@ -44,7 +49,7 @@ The weekly topic schedule is likely to be updated during the term; in general te
 
 ### On-Line Homework Disclaimer
 
-Due to the nature of the course, which involves homework learning technologies that require third party services, on-line homework is a component of this course and is provided by at least two third-party companies. However, this company will not have access to any assessment information. They will have access to your homework, but not to your grades. If you have any concerns about this, please contact the instructor of this course.
+Due to the nature of the course, which involves homework learning technologies that require third party services, online homework is a component of this course and is provided by at least two third-party companies. However, this company will not have access to any assessment information. They will have access to your homework, but not to your grades. If you have any concerns about this, please contact the instructor of this course.
 
 1. Registration in the system and any monetary transactions are of your own accord and not the responsibility of the University.
 2. Students should be mindful of protecting their personal information and should be aware of how their personal information might be used and/or shared.
@@ -127,7 +132,6 @@ C     |Satisfactory |Understand the core material but not its subtleties, can ap
 D+    |Poor         |Understand some of the core material but not its subtleties, can apply it to simple situations but often needs assistance, evidence that the material has had some change on the way of thinking.
 D     |Minimal Pass |Shows some understanding of parts of the material, cannot apply it without some direction, little evidence that the material has changed the way of thinking
 F     |Failure      |Little evidence of understanding of even the surface issues, poor analysis and synthesis, inability to apply the material.
-------|-------------|----------------------------------------------------------
 
 * At the end of the semester, the minimum overall percentage demonstrates "Excellent" in the table above will be the minimum percentage for an A-.
 * The minimum overall percentage demonstrates "Good" will be the minimum percentage for a B-.
@@ -189,7 +193,7 @@ Will be posted on eClass.
 
 It is imperative that students review the dates of all course assessments upon receipt of the course outline, and apply **AS SOON AS POSSIBLE** to ensure the timely application of the accommodation. Students who apply later in the term may experience unavoidable delays in the processing of the application, which can affect the accommodation.
 
-**Missed Term Work**: A student who cannot complete an a course component (except the final exam, see the next section) due to incapacitating illness, severe domestic affliction or other compelling reasons must contact the instructor within two working days of missing the assessment, or as soon as possible, to request an excused absence. If an excused absence is granted, then weight will be transferred to other course components. An excused absence is a privilege and not a right. There is no guarantee that an absence will be excused. Misrepresentation of facts to gain an excused absence is a serious breach of the Code of Student Behaviour. In all cases, instructors may request adequate documentation to substantiate the reason for the absence at their discretion.
+**Missed Term Work**: A student who cannot complete a course component (except the final exam, see the next section) due to incapacitating illness, severe domestic affliction or other compelling reasons must contact the instructor within two working days of missing the assessment, or as soon as possible, to request an excused absence. If an excused absence is granted, then weight will be transferred to other course components. An excused absence is a privilege and not a right. There is no guarantee that an absence will be excused. Misrepresentation of facts to gain an excused absence is a serious breach of the Code of Student Behaviour. In all cases, instructors may request adequate documentation to substantiate the reason for the absence at their discretion.
 
 **Deferred Final Examination**: A student who cannot write the final examination due to incapacitating illness, severe domestic affliction or other compelling reasons can apply for a deferred final examination. Such an application must be made to the student’s Faculty office within two working days of the missed examination and must be supported by appropriate documentation or a Statutory Declaration (see calendar on [Attendance](https://calendar.ualberta.ca/content.php?catoid=39&navoid=12216#attendance)). Deferred examinations are a privilege and not a right; there is no guarantee that a deferred examination will be granted. The Faculty may deny deferral requests in cases where less than 50% of term work has been completed. Misrepresentation of facts to gain a deferred examination is a serious breach of the Code of Student Behaviour. 
 
@@ -255,7 +259,7 @@ In accordance with the University of Alberta’s [Discrimination, Harassment, an
 
 It is recommended that students apply as early as possible in order to ensure sufficient time to complete accommodation registration and coordination. Students are advised to review and adhere to published deadlines for accommodation approval and for specific accommodation requests (e.g., exam registration submission deadlines). Students who request accommodations less than a month in advance of the academic term for which they require accommodations may experience unavoidable delays or consequences in their academic programs, and may need to consider alternative academic schedules.
 
-### Recording and/or Distribution of Course Materialss
+### Recording and/or Distribution of Course Materials
 
 Audio or video recording, digital or otherwise, of lectures, labs, seminars or any other teaching environment by students is allowed only with the prior written consent of the instructor or as a part of an approved accommodation plan. Student or instructor content, digital or otherwise, created and/or used within the context of the course is to be used solely for personal study, and is not to be used or distributed for any other purpose without prior written consent from the content author(s).
 
@@ -297,3 +301,4 @@ Dr. Ildar Akhmetov, Department of Computing Science, Faculty of Science, Univers
 ### Update History
 
 2023-08-31 - Draft
+2023-09-01 - Draft

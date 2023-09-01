@@ -4,10 +4,10 @@
 
 ## Dr. Hazel Campbell
 
-**Email**: <hazel.campbell@ualberta.ca>
-**Office**: ATH 4-05
-**Office hours (ATH 4-05):** TBA
-**Office hours (Zoom):** _(email to make an appointment)_
+* **Email**: <hazel.campbell@ualberta.ca>
+* **Office**: ATH 4-05
+* **Office hours (ATH 4-05):** TBA
+* **Office hours (Zoom):** _(email to make an appointment)_
 
 ## Dr. Mark Polak
 
@@ -119,28 +119,15 @@ Students are expected to attend and participate in all classes and labs. Each cl
 This is the standard system in use by most Computing Science courses at the University of Alberta. However, it may not be what you are used to from other institutions.
 The department of Computing Science believes this produces a fair evaluation and our extensive experience supports this.
 
--------------------------------------------------------------------------------
-Letter Descriptor    Interpretation
------- ------------- ----------------------------------------------------------
-A+\    Excellent     Consistently original thinking that extends the material, demonstrated depth and breadth in the material, ability to integrate material with other subjects, ability to analyze and synthesize material at various levels of abstraction.
-A\
-A-
-
-B+\    Good          Like an A, but not consistent over time, or weak in a specific area.
-B\
-B-
-
-C+\    Satisfactory  Understand the core material but not its subtleties, can apply it to simple situations on own and to more complex situations with hints, evidence that the material has changed the way of thinking.
-C\
-C-
-
-D+     Poor          Understand some of the core material but not its subtleties, can apply it to simple situations but often needs assistance, evidence that the material has had some change on the way of thinking.
-
-D      Minimal       Shows some understanding of parts of the material, cannot apply it without some direction, little evidence that the material has changed the way of thinking.
-       Pass
-
-F      Failure       Little evidence of understanding of even the surface issues, poor analysis and synthesis, inability to apply the material.
--------------------------------------------------------------------------------
+Letter|Descriptor   |Interpretation
+------|-------------|----------------------------------------------------------
+A     |Excellent    |Consistently original thinking that extends the material, demonstrated depth and breadth in the material, ability to integrate material with other subjects, ability to analyze and synthesize material at various levels of abstraction.
+B     |Good         |Like an A, but not consistent over time, or weak in a specific area.
+C     |Satisfactory |Understand the core material but not its subtleties, can apply it to simple situations on own and to more complex situations with hints, evidence that the material has changed the way of thinking.
+D+    |Poor         |Understand some of the core material but not its subtleties, can apply it to simple situations but often needs assistance, evidence that the material has had some change on the way of thinking.
+D     |Minimal Pass |Shows some understanding of parts of the material, cannot apply it without some direction, little evidence that the material has changed the way of thinking
+F     |Failure      |Little evidence of understanding of even the surface issues, poor analysis and synthesis, inability to apply the material.
+------|-------------|----------------------------------------------------------
 
 * At the end of the semester, the minimum overall percentage demonstrates "Excellent" in the table above will be the minimum percentage for an A-.
 * The minimum overall percentage demonstrates "Good" will be the minimum percentage for a B-.

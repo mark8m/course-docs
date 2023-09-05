@@ -6,32 +6,28 @@ See [Course Outline](../course-outline/).
 
 ## Teaching Assistants
 
-### Pranjal Dilip Naringrekar
+### Kalvin Eng
 
-**Email**: <naringre@ualberta.ca>  
+**Email**: <kalvin.eng@ualberta.ca>  
 **Office hours**: email for appointment
 
-[LinkedIn](https://www.linkedin.com/in/pranjal-naringrekar-b73157157/)
 
-### Shraddha Mukesh Makwana
+### Anisha Islam
 
-**Email**: <smakwana@ualberta.ca>
+**Email**: 
+
 **Office hours**: email for appointment
 
-[LinkedIn](https://www.linkedin.com/in/shraddha-makwana/)
+
+### Steven Heung
+
+**Email**: 
+
+**Office hours**: email for appointment
+
 
 ### Yazeed Mahmoud
 
-**Email**: <yazeed1@ualberta.ca>
+**Email**: 
 
 **Office hours**: email for appointment
-
-[LinkedIn](https://www.linkedin.com/in/yazeedsabil/)
-
-### Vivek Malhotra
-
-**Email**: <malhotra@ualberta.ca>
-
-**Office hours**: email for appointment
-
-[LinkedIn](https://www.linkedin.com/in/vivek-malhotra-598a00198/)

@@ -1,6 +1,22 @@
 # University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> LEC-A1-85136 <br> Fall 2023
 
-**Web Page**: <https://eclass.srv.ualberta.ca/course/view.php?id=91570>
+**eClass Page**: <https://eclass.srv.ualberta.ca/course/view.php?id=91570>
+
+## Lecture
+
+* Friday, 9:00AM to 10:50AM, CSC B-10
+* In-person
+
+## Labs/Seminars
+
+* Wednesday, 9:00AM to 10:50AM, CSC B-10
+* Some Mondays, 9:00AM to 10:50AM
+    * Monday, September 11th, CSC B-10
+    * Monday, October 30th, (room TBD)
+* Friday, Sep 15th, 5:00PM - 7:50PM, CSC B-10
+* Wednesday, Dec 6th 9:00AM - 10:50AM, CSC B-10
+* Friday, Dec 6th 9:00AM - 10:50AM, CSC B-10
+* In-person
 
 ## Dr. Hazel Campbell
 
@@ -228,7 +244,11 @@ The University of Alberta is committed to the highest standards of academic inte
 
 All students are expected to consult the [Academic Integrity website ](https://www.ualberta.ca/current-students/academic-resources/academic-integrity)for clarification on the various academic offences. All forms of academic dishonesty are unacceptable at the University. Any suspected academic offence in this course will be reported to the College of Natural and Applied Sciences. Suspected cases of non-academic misconduct will be reported to the Dean of Students. The College, the Faculty of Science, and the Dean of Students are committed to student rights and responsibilities, and adhere to due process and administrative fairness, as outlined in the Code of Student Behaviour and the Student Conduct Policy. Anyone who is found in violation is likely to receive a sanction. Typical sanctions for academic misconduct include conduct probation, a mark reduction or a mark of 0 on an assessment, a grade reduction or a grade of F in a course, a remark on the transcript, and a recommendation for suspension or expulsion. Sanctions for non-academic misconduct include conduct conditions, fines, suspension of essential or non-essential University services and resources, and suspension or expulsion from the University.
 
-### Appropriate Collaboration: Assignments and Exams
+### Appropriate Collaboration: Exams
+
+Exams are confidential. No discussion of the contents of the exam is permitted except with instructors.
+
+### Appropriate Collaboration: Assignments
 
 Students are not permitted to copy solutions on homework assignments. Here are some tips to avoid copying on assignments:
 
@@ -294,11 +314,13 @@ To learn more about the significance of this land acknowledgement, please read [
 Any typographical errors in this Course Outline are subject to change and will be announced in class. The date of the final examination is set by the Registrar and takes precedence over the final examination date reported in this syllabus.
 
 **Copyright**:
-Dr. Hazel Campbell, Department of Computing Science, Faculty of Science, University of Alberta (2023).
-Dr. Mark Polak, Department of Computing Science, Faculty of Science, University of Alberta (2023).
-Dr. Ildar Akhmetov, Department of Computing Science, Faculty of Science, University of Alberta (2023).
+
+* Dr. Hazel Campbell, Department of Computing Science, Faculty of Science, University of Alberta (2023).
+* Dr. Mark Polak, Department of Computing Science, Faculty of Science, University of Alberta (2023).
+* Dr. Ildar Akhmetov, Department of Computing Science, Faculty of Science, University of Alberta (2023).
 
 ### Update History
 
 2023-08-31 - Draft
 2023-09-01 - Draft
+2023-09-05 - Exam collaboration policy, add meeting dates and times.

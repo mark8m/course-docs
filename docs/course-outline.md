@@ -9,13 +9,13 @@
 
 ## Labs/Seminars
 
-* Wednesday, 9:00AM to 10:50AM, CSC B-10
-* Some Mondays, 9:00AM to 10:50AM
+* **Wednesdays**, 9:00AM to 10:50AM, CSC B-10
+* **Some Mondays**, 9:00AM to 10:50AM
     * Monday, September 11th, CSC B-10
     * Monday, October 30th, (room TBD)
 * Friday, Sep 15th, 5:00PM - 7:50PM, CSC B-10
 * Wednesday, Dec 6th 9:00AM - 10:50AM, CSC B-10
-* Friday, Dec 6th 9:00AM - 10:50AM, CSC B-10
+* Friday, Dec 8th 9:00AM - 10:50AM, CSC B-10
 * In-person
 
 ## Dr. Hazel Campbell

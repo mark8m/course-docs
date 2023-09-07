@@ -13,7 +13,7 @@
 * **Some Mondays**, 9:00AM to 10:50AM
     * Monday, September 11th, CSC B-10
     * Monday, October 30th, (room TBD)
-* Friday, Sep 15th, 5:00PM - 7:50PM, CSC B-10
+* Friday, Sep 15th, 5:00PM - 7:50PM, ETLC 1-007
 * Wednesday, Dec 6th 9:00AM - 10:50AM, CSC B-10
 * Friday, Dec 8th 9:00AM - 10:50AM, CSC B-10
 * In-person
@@ -22,14 +22,14 @@
 
 * **Email**: <hazel.campbell@ualberta.ca>
 * **Office**: ATH 4-05
-* **Office hours (ATH 4-05):** Friday after lecture
+* **Office hours (ATH 4-05):** Friday, 11:10 to 12:00
 * **Office hours (Zoom):** _(email to make an appointment)_
 
 ## Dr. Mark Polak
 
 * **Email**: <mpolak1@ualberta.ca>
 * **Office**: CAB 3-05
-* **Office hours (CAB 3-05):** TBA
+* **Office hours (CAB 3-05):** Wednesday, 11:10 to 12:00
 * **Office hours (Zoom):** _(email to make an appointment)_
 
 ## Course Content
@@ -324,3 +324,4 @@ Any typographical errors in this Course Outline are subject to change and will b
 2023-08-31 - Draft
 2023-09-01 - Draft
 2023-09-05 - Exam collaboration policy, add meeting dates and times.
+2023-09-07 - Room numbers and office hours update

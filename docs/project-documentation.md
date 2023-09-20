@@ -4,6 +4,10 @@ You will be working on these documents during Sprint 1. In Sprint 2, you will re
 
 Example: <https://ualberta-cmput401.github.io/example-documentation/>.
 
+## Project storage
+
+Please use the repository from GitHub classroom for documentation. The link for the current semester can be found on eClass.
+
 ## Project requirements
 
 The purpose of this document is to explain the requirements of your software product. It should have the following sections. 

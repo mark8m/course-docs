@@ -12,3 +12,6 @@ nav:
   - "Final Presentation": "final-presentation.md"
   - "Teaching Team": "teaching-team.md"
   - "Links": "links.md"
+
+markdown_extensions:
+  - admonition

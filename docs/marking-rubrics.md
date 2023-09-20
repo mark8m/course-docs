@@ -20,6 +20,7 @@ For the first sprint, you will deliver:
 * [Teamwork document](https://ualberta-cmput401.github.io/course-docs/project-documentation/#teamwork)
 
 Your documentation must be stored as markdown files in the `/docs` folder in the `main` branch of your GitHub repository. Use [mkdocs](https://www.mkdocs.org/getting-started/) and [GitHub Pages](https://www.mkdocs.org/user-guide/deploying-your-docs/) to deploy the documentation.
+Meeting minutes should also be stored in a single markdown file in the `/docs` folder labeled as `meeting-minutes.md`.
 
 Example: <https://ualberta-cmput401.github.io/example-documentation/>.
 

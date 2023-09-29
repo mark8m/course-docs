@@ -8,6 +8,28 @@ Example: <https://ualberta-cmput401.github.io/example-documentation/>.
 
 Please use the repository from GitHub classroom for documentation. The link for the current semester can be found on eClass.
 
+All repos should be owned by CMPUT401-UAlberta, so if you need additional repos, please ask your TA to create any additional repos you need and add you to them. This so if a student drops, deletes their github, or we need to revist something after the end of the semester. (Instructors are required to keep assignments & exams for 1 year in case of grade appeals or cheating, etc.).
+
+## Meeting Minutes
+
+* You should be meeting with your team every week at the beginning of the week.
+* You should be meeting with your TA every week during the assigned lab.
+* You should be meeting with your client every week (minimum: once per sprint).
+
+See the [Meeting Minutes Example](meeting-minutes-example.html).
+
+## 401 IP Agreement Form
+
+Please make sure everyone on the team & the client sign the IP agreement form. It's listed on the eClass. The purpose & rationale of the form is:
+
+* Clients want to be able to own the code after the end of the project to do as they please, for example: keep working with the code.
+* The idea for the project belongs to the client and the code comes from the team's work.
+* The client can use the code for their idea.
+* The team can use the code for any other ideas that they may have
+* It is required because the project ideas are creative and related to the client's business/project.
+
+If you have any further concerns, please email the instructor. 
+
 ## Project requirements
 
 The purpose of this document is to explain the requirements of your software product. It should have the following sections. 
@@ -50,7 +72,6 @@ Be creative and think outside the box.
 ### Technical resources
 
 List useful informational resources around the tools and frameworks that you plan to use.
-
 
 ## Software design
 

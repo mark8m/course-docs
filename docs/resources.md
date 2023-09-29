@@ -10,6 +10,10 @@ You may need to be logged into your UAlberta account to access these.
 * [Paper Belbin Roles Worksheet](downloads/BELBIN-questionnaire.pdf)
     * [Belbin Roles Spreadsheet](https://docs.google.com/spreadsheets/d/1oqthw0alqIhEz3xvuAArIusf1de6HHq3AToODfmZ4nY)
 
+## Readings
+
+* [Client Needs & Software Requirements](downloads/3%20Client%20Needs%20and%20Software%20Requirements%20-%20Notes.pdf)
+
 ## Workshops & Tutorials
 
 * [Cybera Rapid Access Cloud Tutorial](https://docs.google.com/presentation/d/1vQdgopw5dKdTTN-9a_5uHptSGNHtdTY5rEiiFt5RZCY/edit?usp=sharing)
@@ -37,3 +41,7 @@ You may need to be logged into your UAlberta account to access these.
     * [Part 1](https://mtlynch.io/human-code-reviews-1/)
     * [Part 2](https://mtlynch.io/human-code-reviews-2/)
 
+## Community Service-Learning
+
+* [Website](http://www.ualberta.ca/community-service-learning/)
+* [Student Guidebook](downloads/CSL%20Student%20Guidebook%202021.pdf)

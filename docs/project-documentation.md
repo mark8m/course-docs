@@ -112,6 +112,7 @@ Looking at the wireframes, anyone should be able to get an idea of what will be 
 There are two sections in this document:
 
 1. Storymap
+    * Should include all user stories
 2. Project plan (or backlog)
 
 You should start the document with a storymap. Include all five sprints. Don't forget to indicate estimation of each user story (in story points).

@@ -14,8 +14,7 @@ See [Course Outline](../course-outline/).
 
 ### Anisha Islam
 
-**Email**: 
-
+**Email**: <aislam4@ualberta.ca>
 **Office hours**: email for appointment
 
 

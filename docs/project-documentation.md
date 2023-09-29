@@ -28,7 +28,11 @@ Please make sure everyone on the team & the client sign the IP agreement form. I
 * The team can use the code for any other ideas that they may have
 * It is required because the project ideas are creative and related to the client's business/project.
 
+<<<<<<< HEAD
 If you have any further concerns, please email the instructor. 
+=======
+If you have any further concerns, please email the instructord. 
+>>>>>>> 2dcb1710db1636cc1c22dde8f385d8dc71747682
 
 ## Project requirements
 

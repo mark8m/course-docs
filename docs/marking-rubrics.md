@@ -72,7 +72,7 @@ Besides, you may start implementation.
 
 #### Sprint planning
 
-* Storymap clealy represents the project and includes all five sprints. Story map has to include all user stories (Must dos, Should dos, Could dos and Won't dos) with proper categorization.
+* Storymap clealy represents the project and includes all five sprints. Story map has to include all user stories (Must do, Should do, Could do and Won't do) with proper categorization.
 * Project plan clearly shows the major milestones to be accomplished for all five sprints, including deadlines
 * User stories are included in the project plan for Sprints 2 to 5
 * Estimated velocity is calculated for Sprints 2 to 5

@@ -26,6 +26,7 @@ For the first sprint, you will deliver:
     Meeting minutes should also be stored in a single markdown file in the `/docs` folder labeled as `meeting-minutes.md`.
 
 Example: <https://ualberta-cmput401.github.io/example-documentation/>.
+Example #2: this site.
 
 Besides, you may start implementation.
 

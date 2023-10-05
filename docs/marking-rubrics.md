@@ -127,6 +127,12 @@ You will make your hands dirty with the code and make significant progress on yo
 
 * Sufficient progress has been made (as planned in the previous sprint)
 * GitHub repo is well organized, using the best practices
+    * One branch for each sprint with sub-branches for features (not for team members).
+    * Feature branches must be based on GitHub issues related to the feature.
+    * Never merging directly but rather creating pull requests with comments and having the commit's content reviewed by another team member. Branch protection rules must be set up on the sooner side.
+    * Pull requests from sprint branches to main (or master) must be reviewed by the scrum master before being merged at the end of the sprint.
+    * All releases must be based on the main branch.
+    * Issues must be maintained well with tags and closed whenever they're complete.
 * Code is well structured and organized
 * Code is well written and efficient
 * Comments consistent is useful

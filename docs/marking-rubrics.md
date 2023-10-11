@@ -134,6 +134,12 @@ You will make your hands dirty with the code and make significant progress on yo
 #### Testing
 
 * Tests exist and run for (as many as possible of) the demonstrated functionalities
+    * Tests should be Acceptance Tests for testing user stories from the user's point-of-view
+    * Tests should be labelled with what user story they're for
+    * Tests should include success and failure scenarios (e.g. test good password and bad password)
+    * Tests should ideally be user interface tests using UI test automation tools (e.g. selenium for web UIs)
+    * API should be tested if applicable
+    * Unit tests (tests per function, method, class in the code) are **not** required
 
 #### Sprint planning
 

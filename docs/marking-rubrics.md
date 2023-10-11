@@ -73,7 +73,7 @@ Besides, you may start implementation.
 
 #### Sprint planning
 
-* Storymap clealy represents the project and includes all five sprints. Story map has to include all user stories (Must do, Should do, Could do and Won't do) with proper categorization.
+* Storymap clearly represents the project and includes all five sprints. Story map has to include all user stories (Must do, Should do, Could do and Won't do) with proper categorization.
 * Project plan clearly shows the major milestones to be accomplished for all five sprints, including deadlines
 * User stories are included in the project plan for Sprints 2 to 5
 * Estimated velocity is calculated for Sprints 2 to 5
@@ -127,6 +127,12 @@ You will make your hands dirty with the code and make significant progress on yo
 
 * Sufficient progress has been made (as planned in the previous sprint)
 * GitHub repo is well organized, using the best practices
+    * One branch for each sprint with sub-branches for features (not for team members).
+    * Feature branches must be based on GitHub issues related to the feature.
+    * Never merging directly but rather creating pull requests with comments and having the commit's content reviewed by another team member. Branch protection rules must be set up on the sooner side.
+    * Pull requests from sprint branches to main (or master) must be reviewed by the scrum master before being merged at the end of the sprint.
+    * All releases must be based on the main branch.
+    * Issues must be maintained well with tags and closed whenever they're complete.
 * Code is well structured and organized
 * Code is well written and efficient
 * Comments consistent is useful

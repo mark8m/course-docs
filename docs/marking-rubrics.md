@@ -149,7 +149,7 @@ You will make your hands dirty with the code and make significant progress on yo
 
 #### Sprint planning
 
-* Storymap clealy represents the current state of the project
+* Storymap clearly represents the current state of the project
 * Project plan is updated to reflect the current state of the project
 * Velocity is re-estimated for Sprints 3, 4, and 5
 * Sprint 3 tasks are included in the project plan
@@ -198,7 +198,7 @@ _**Revisions**, **Codebase**, **Testing**, **Teamwork**, and **Wildcard** delive
 
 #### Sprint planning
 
-* Storymap clealy represents the current state of the project
+* Storymap clearly represents the current state of the project
 * Project plan is updated to reflect the current state of the project
 * Velocity is re-estimated for Sprints 4 and 5
 * Sprint 4 tasks are included in the project plan
@@ -224,7 +224,7 @@ _**Revisions**, **UX, UI design**, **Codebase**, **Testing**, **Teamwork**, and 
 
 #### Sprint planning
 
-* Storymap clealy represents the current state of the project
+* Storymap clearly represents the current state of the project
 * Project plan is updated to reflect the current state of the project
 * Velocity is re-estimated for Sprint 5
 * Sprint 5 tasks are included in the project plan

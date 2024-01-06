@@ -1,6 +1,6 @@
-# University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> LEC-A1-85136 <br> Fall 2023
+# University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> Winter 2024
 
-**eClass Page**: <https://eclass.srv.ualberta.ca/course/view.php?id=91570>
+**eClass Page**: <https://eclass.srv.ualberta.ca/course/view.php?id=95431>
 
 ## Lecture
 
@@ -11,19 +11,13 @@
 
 * **Wednesdays**, 9:00AM to 10:50AM, CSC B-10
 * **Some Mondays**, 9:00AM to 10:50AM
-    * Monday, September 11th, CSC B-10
-    * Monday, October 30th, (room TBD)
-* Friday, Sep 15th, 5:00PM - 7:50PM, ETLC 1-007
-* Wednesday, Dec 6th 9:00AM - 10:50AM, CSC B-10
-* Friday, Dec 8th 9:00AM - 10:50AM, CSC B-10
+    * Monday, January 15th, CSC B-10
+* Friday, January 19th, 5:00PM - 9:00PM, ETLC 1-007
+* Saturday, January 20th, 9:00AM - 3:00PM, ETLC 1-007
+* Sunday, January 21st, 9:00AM - 3:00PM, ETLC 1-007
+* Wednesday, April 10th 9:00AM - 10:50AM, CSC B-10
+* Friday, April 12th 9:00AM - 10:50AM, CSC B-10
 * In-person
-
-## Dr. Hazel Campbell
-
-* **Email**: <hazel.campbell@ualberta.ca>
-* **Office**: ATH 4-05
-* **Office hours (ATH 4-05):** Friday, 11:10 to 12:00
-* **Office hours (Zoom):** _(email to make an appointment)_
 
 ## Dr. Mark Polak
 
@@ -220,7 +214,7 @@ Unless otherwise instructed by an instructor, **this course requires attendance 
 **Recordings of Synchronous Activities**:
 Please note that class times for this course **may be recorded**. Recordings of this course will be used for the purposes of allowing students who missed class due to illness to review missed lectures, for review before the final exam, and will be disclosed to other students enrolled in this section of the class, all instructors and teaching assistants.
 Students have the right to not participate in the recording and are advised to turn off their cameras and audio prior to recording; they can still participate through text-based chat. It is recommended that students remove all identifiable and personal belongings from the space in which they will be participating.
-Recordings will be made available until Dec. 31, 2023, etc. and accessible by eClass, Google Drive, or Zoom Cloud Storage. Please direct any questions about this collection to the instructor of this course.
+Recordings will be made available until the last day of classes, etc. and accessible by eClass, Google Drive, or Zoom Cloud Storage. Please direct any questions about this collection to the instructor of this course.
 
 
 However, **in the case that some parts of the class are moved on-line,** for example due to an emergency the following will apply:
@@ -326,3 +320,4 @@ Any typographical errors in this Course Outline are subject to change and will b
 * 2023-09-05 - Exam collaboration policy, add meeting dates and times.
 * 2023-09-07 - Room numbers and office hours update
 * 2023-09-20 - Added location of where meeting minutes should be placed (in `/docs` folder labeled as `meeting-minutes.md`)
+* 2024-01-05 - Updated docs for Winter 2024

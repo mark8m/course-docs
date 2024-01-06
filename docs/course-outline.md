@@ -91,14 +91,14 @@ _The team is marked as a whole, individual coefficients may be applied based on 
 
 | Component                                                                              | Weight  |
 | -------------------------------------------------------------------------------------- | ------- |
-| [Sprint 1](/course-docs/marking-rubrics/#sprint-1)                                     | 12%     |
-| [Sprint 2](/course-docs/marking-rubrics/#sprint-2)                                     | 12%     |
-| [Sprint 3](/course-docs/marking-rubrics/#sprint-3)                                     | 12%     |
-| [Sprint 4](/course-docs/marking-rubrics/#sprint-4)                                     | 12%     |
-| [Sprint 5](/course-docs/marking-rubrics/#sprint-5)                                     | 12%     |
-| [Screencast](/course-docs/marking-rubrics/#screencast)                                 | 3%      |
-| [Presentation](/course-docs/marking-rubrics/#presentation)                             | 3%      |
-| [Final assessment by client](/course-docs/marking-rubrics/#final-assessment-by-client) | 4%      |
+| [Sprint 1](/marking-sprint1/)                                                          | 12%     |
+| [Sprint 2](/marking-sprint2/)                                                          | 12%     |
+| [Sprint 3](/marking-sprint3/)                                                          | 12%     |
+| [Sprint 4](/marking-sprint4/)                                                          | 12%     |
+| [Sprint 5](/marking-sprint5/)                                                          | 12%     |
+| [Screencast](/marking-screencast/)                                                     | 3%      |
+| [Presentation](/marking-presentation/)                                                 | 3%      |
+| [Final assessment by client](/marking-client-feedback/)                                | 4%      |
 | **Total**                                                                              | **70%** |
 
 ### Individual Work (30% total)

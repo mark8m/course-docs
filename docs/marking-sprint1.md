@@ -2,10 +2,10 @@
 
 For the first sprint, you will deliver:
 
-* [Project Requirements document](/project-expectations/#project-requirements) 
-* An early version of the [Software Design document](/project-expectations/#software-design) (focusing on high-level architectural design)
-* [Project Management document](/project-expectations/#project-management)
-* [Teamwork document](/project-expectations/#teamwork)
+* [Project Requirements document](https://ualberta-cmput401.github.io/course-docs/project-expectations/#project-requirements) 
+* An early version of the [Software Design document](https://ualberta-cmput401.github.io/course-docs/project-expectations/#software-design) (focusing on high-level architectural design)
+* [Project Management document](https://ualberta-cmput401.github.io/course-docs/project-expectations/#project-management)
+* [Teamwork document](https://ualberta-cmput401.github.io/course-docs/project-expectations/#teamwork)
 
 !!! note
 

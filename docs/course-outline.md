@@ -89,14 +89,14 @@ _The team is marked as a whole, individual coefficients may be applied based on 
 
 | Component                                                                              | Weight  |
 | -------------------------------------------------------------------------------------- | ------- |
-| [Sprint 1](/marking-sprint1/)                                                          | 12%     |
-| [Sprint 2](/marking-sprint2/)                                                          | 12%     |
-| [Sprint 3](/marking-sprint3/)                                                          | 12%     |
-| [Sprint 4](/marking-sprint4/)                                                          | 12%     |
-| [Sprint 5](/marking-sprint5/)                                                          | 12%     |
-| [Screencast](/marking-screencast/)                                                     | 3%      |
-| [Presentation](/marking-presentation/)                                                 | 3%      |
-| [Final assessment by client](/marking-client-feedback/)                                | 4%      |
+| [Sprint 1](/course-docs/marking-sprint1/)                                              | 12%     |
+| [Sprint 2](/course-docs/marking-sprint2/)                                              | 12%     |
+| [Sprint 3](/course-docs/marking-sprint3/)                                              | 12%     |
+| [Sprint 4](/course-docs/marking-sprint4/)                                              | 12%     |
+| [Sprint 5](/course-docs/marking-sprint5/)                                              | 12%     |
+| [Screencast](/course-docs/marking-screencast/)                                         | 3%      |
+| [Presentation](/course-docs/marking-presentation/)                                     | 3%      |
+| [Final assessment by client](/course-docs/marking-client-feedback/)                    | 4%      |
 | **Total**                                                                              | **70%** |
 
 ### Individual Work (30% total)
@@ -107,13 +107,13 @@ Besides the final exam, your individual work component involves:
 2. Reflection forms (four peer-review forms (one after each Sprint) and a final reflection), due by the end of each Sprint demo day (5) and by the end of the class (1)
 3. In-class and hackathon participation
 
-| Component                                                          | Weight  |
-| ------------------------------------------------------------------ | ------- |
-| [Assignment](/course-docs/marking-rubrics/#assignment)             | 5%      |
-| [Reflection forms](/course-docs/marking-rubrics/#reflection-forms) | 3%      |
-| [Participation](/course-docs/marking-rubrics/#participation)       | 7%      |
-| Final exam                                                         | 15%     |
-| **Total**                                                          | **30%** |
+| Component                                                                | Weight  |
+| -----------------------------------------------------------------------  | ------- |
+| [Assignment](/course-docs/marking-individual/#assignment)                | 5%      |
+| [Reflection forms](/course-docs/marking-individual/#reflection-forms)    | 3%      |
+| [Participation](/course-docs/marking-individual/#participation)          | 7%      |
+| Final exam                                                               | 15%     |
+| **Total**                                                                | **30%** |
 
 Students must verify the Final Exam date on BearTracks when the Final Exam Schedule is posted.
 

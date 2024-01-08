@@ -11,11 +11,6 @@ See [Course Outline](../course-outline/).
 **Email**: <kalvin.eng@ualberta.ca>  
 **Office hours**: email for appointment
 
-### Kalvin Eng
-
-**Email**: <kalvin.eng@ualberta.ca>  
-**Office hours**: email for appointment
-
 ### Amir Salimi
 
 **Email**: <asalimi@ualberta.ca> 

@@ -8,7 +8,7 @@
 * In-person
 
 ## Labs/Seminars
-
+* In-person
 * **Wednesdays**, 9:00AM to 10:50AM, CSC B-10
 * **Some Mondays**, 9:00AM to 10:50AM
     * Monday, January 15th, CSC B-10

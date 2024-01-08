@@ -17,6 +17,8 @@ You may need to be logged into your UAlberta account to access these.
 
 ## Workshops & Tutorials
 
+Below are some workshops previously presented in prior terms, and possibly helpful tutorials.
+
 * [Cybera Rapid Access Cloud Tutorial](https://docs.google.com/presentation/d/1vQdgopw5dKdTTN-9a_5uHptSGNHtdTY5rEiiFt5RZCY/edit?usp=sharing)
     * [Tutorial Screencast](https://www.youtube.com/watch?v=jv4D8I_AwTQ)
 * Django Workshop

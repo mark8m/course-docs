@@ -12,12 +12,12 @@
 * **Wednesdays**, 9:00AM to 10:50AM, CSC B-10
 * **Some Mondays**, 9:00AM to 10:50AM
     * Monday, January 15th, CSC B-10
-    * Monday, March 11th, (CSC B-10)
+    * Monday, March 11th, CSC B-10
 * **Sunday**, Jan 21 12:00PM to 3:00PM, ETLC 1-007
   
 ## Hackathon    
 * **Friday** evening, Jan 19th, 5:00PM - 9:00PM, ETLC 1-007
-* **Saturday**, January 20th, 9:00AM - 6:00PM 
+* **Saturday**, January 20th, 9:00AM - 6:00PM, ETLC 1-007 
 
 ## Presentations and Demo Fair
 * **Wednesday**, Apr 10th 9:00AM - 10:50AM, CSC B-10
@@ -89,14 +89,14 @@ _The team is marked as a whole, individual coefficients may be applied based on 
 
 | Component                                                                              | Weight  |
 | -------------------------------------------------------------------------------------- | ------- |
-| [Sprint 1](/course-docs/marking-rubrics/#sprint-1)                                     | 12%     |
-| [Sprint 2](/course-docs/marking-rubrics/#sprint-2)                                     | 12%     |
-| [Sprint 3](/course-docs/marking-rubrics/#sprint-3)                                     | 12%     |
-| [Sprint 4](/course-docs/marking-rubrics/#sprint-4)                                     | 12%     |
-| [Sprint 5](/course-docs/marking-rubrics/#sprint-5)                                     | 12%     |
-| [Screencast](/course-docs/marking-rubrics/#screencast)                                 | 3%      |
-| [Presentation](/course-docs/marking-rubrics/#presentation)                             | 3%      |
-| [Final assessment by client](/course-docs/marking-rubrics/#final-assessment-by-client) | 4%      |
+| [Sprint 1](/marking-sprint1/)                                                          | 12%     |
+| [Sprint 2](/marking-sprint2/)                                                          | 12%     |
+| [Sprint 3](/marking-sprint3/)                                                          | 12%     |
+| [Sprint 4](/marking-sprint4/)                                                          | 12%     |
+| [Sprint 5](/marking-sprint5/)                                                          | 12%     |
+| [Screencast](/marking-screencast/)                                                     | 3%      |
+| [Presentation](/marking-presentation/)                                                 | 3%      |
+| [Final assessment by client](/marking-client-feedback/)                                | 4%      |
 | **Total**                                                                              | **70%** |
 
 ### Individual Work (30% total)
@@ -209,6 +209,25 @@ It is imperative that students review the dates of all course assessments upon r
 
 Unless otherwise instructed by an instructor, **this course requires attendance in-person.**
 
+<!-- **Recordings of Synchronous Activities**:
+Please note that class times for this course **may be recorded**. Recordings of this course will be used for the purposes of allowing students who missed class due to illness to review missed lectures, for review before the final exam, and will be disclosed to other students enrolled in this section of the class, all instructors and teaching assistants.
+Students have the right to not participate in the recording and are advised to turn off their cameras and audio prior to recording; they can still participate through text-based chat. It is recommended that students remove all identifiable and personal belongings from the space in which they will be participating.
+Recordings will be made available until the last day of classes, etc. and accessible by eClass, Google Drive, or Zoom Cloud Storage. Please direct any questions about this collection to the instructor of this course.
+
+
+However, **in the case that some parts of the class are moved on-line,** for example due to an emergency the following will apply:
+
+Technology for Remote Learning: To successfully participate in remote learning in this course, it is recommended that students have access to a computer with an internet connection that can support the tools and technologies the University uses to deliver content, engage with instructors, TAs, and fellow students, and facilitate assessment and examinations. Please refer to Technology for Remote Learning - For Students for details. If you encounter difficulty meeting the technology recommendations, please email the Dean of Students Office (dosdean@ualberta.ca) directly to explore options and support.
+
+Please contact the instructor by the add/drop deadline if you do not have access to the minimum technology recommended. The instructor will make arrangements for accommodating students who contact the instructor before this date. Failure to do so may result in a zero in any assessment that depends on the minimum technology. 
+
+Remote Proctoring Consideration: We may use a remote proctoring service for exams. Your computer and environment may be monitored during exams. 
+You should arrange for a place to write timed exams without interruption. 
+Tablets and mobile devices are incompatible with remote proctoring services. 
+
+Home-Based Lab Activities: As part of the learning experience in this course, you will be required to undertake certain activities in or around your place of residence. To ensure that you undertake the activity safely and fully informed of the risks, please review the [University of Alberta’s Remote Learning Lab-Based Assignment Information Advisory](https://www.ualberta.ca/finance-procurement-planning/media-library/insurance-risk-assessment/remote-learning-lab-based-assignment-information-advisory.pdf). If you have questions or concerns, contact your instructor. 
+
+Student Resources for Remote Learning: Online learning may be new to you. Check out tips for success and find out more about online learning on the [Campus Life](http://ualberta.ca/campus-life/index.html) page, and specifically on the [Academic Skills Online & Remote Delivery Resources](https://www.ualberta.ca/current-students/academic-success-centre/resources/index.html) page. -->
 
 ## Student Responsibilities
 

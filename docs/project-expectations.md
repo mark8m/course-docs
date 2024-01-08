@@ -1,10 +1,6 @@
-# Project Documentation
+# Project Expectations
 
-You will be working on these documents during Sprint 1. In Sprint 2, you will refine and finalize the project documentation. After Sprint 2, you will update the Project Management page. All other documents will be considered final after the end Sprint 2.
-
-Example: <https://ualberta-cmput401.github.io/example-documentation/>.
-
-## Project storage
+## Project Storage
 
 Please use the repository from GitHub classroom for documentation. The link for the current semester can be found on eClass.
 
@@ -12,11 +8,15 @@ All repos should be owned by CMPUT401-UAlberta, so if you need additional repos,
 
 ## Meeting Minutes
 
+Meeting minutes are meant to keep track of what has been discussed during a meeting. 
+It can serve as a reference to resolve problems that can arise as the project progresses.
+
+Meeting minutes will record the: date and time, location, attendees, agenda of what is to be discussed, minutes of what was discussed, and action items arising from the meeting.
+
 * You should be meeting with your team every week at the beginning of the week.
 * You should be meeting with your TA every week during the assigned lab.
 * You should be meeting with your client every week (minimum: once per sprint).
-
-See the [Meeting Minutes Example](meeting-minutes-example.html).
+* Meeting minutes should be immediately submitted after each meeting via a Google Forms link on eClass.
 
 ## 401 IP Agreement Form
 
@@ -30,11 +30,19 @@ Please make sure everyone on the team & the client sign the IP agreement form. I
 
 If you have any further concerns, please email the instructor. 
 
-## Project requirements
+## Project Documentation
+
+You will be working on these documents during Sprint 1. In Sprint 2, you will refine and finalize the project documentation. After Sprint 2, you will update the Project Management page. All other documents will be considered final after the end Sprint 2.
+
+Example: <https://ualberta-cmput401.github.io/example-documentation/>.
+
+The example serves as reference only and should not be considered a gold standard.
+
+### Project requirements
 
 The purpose of this document is to explain the requirements of your software product. It should have the following sections. 
 
-### Executive summary
+#### Executive summary
 
 Write a short overview of the project (one paragraph), including the following:
 
@@ -43,11 +51,11 @@ Write a short overview of the project (one paragraph), including the following:
 * Who will use your product;
 * How your product will be used.
 
-### Project glossary
+#### Project glossary
 
 Define any special terminology in the application domain (i.e., the terms that your client is using; not development, programming, or implementation terms).
 
-### User stories
+#### User stories
 
 User stories should be formulated using the standard notation (“As a [persona], I [want to], [so that].”). Think carefully about who will be the users of your product, and formulate user stories for specific personae. Your collection of user stories should be complete and cohesive, it must clearly show how exactly the client’s requirements will be met with your product.
 
@@ -55,11 +63,12 @@ For each user story, you must formulate detailed acceptance tests.
 
 User stories must be prioritized using the MoSCoW method.
 
-### Similar products
+#### Similar products
 
 List competitive or similar products that you may use as a reference and/or inspiration.
+At a minimum, similar products that can be found trivially via Google should be included.
 
-### Open-source products
+#### Open-source products
 
 List any open-source products that might somehow benefit your product, e.g.:
 
@@ -69,11 +78,11 @@ List any open-source products that might somehow benefit your product, e.g.:
 
 Be creative and think outside the box.
 
-### Technical resources
+#### Technical resources
 
 List useful informational resources around the tools and frameworks that you plan to use.
 
-## Software design
+### Software design
 
 The software design document should be consistent with the requirements document, it should document and explain how the design will actually deliver the required features.
 
@@ -81,7 +90,7 @@ There is no one “right” way to create this document. Use your best judgement
 
 Before getting started, refresh your understanding of UML, this book is recommended (chapters 1, 3, 4): <https://learning.oreilly.com/library/view/uml-distilled-a/0321193687/>. 
 
-### High-level architecture
+#### High-level architecture
 
 Most likely, you will **not** use any UML notation for the architecture diagram. You are free to invent your own style of architecture diagram. Include a useful legend. Refer to the examples discussed in class for guidance.
 
@@ -90,24 +99,24 @@ Make sure that your diagram includes all layers.
 
 You can have more than one diagram if your project’s complexity requires it. 
 
-### Major data elements 
+#### Major data elements 
 
 If you adopt an object-oriented style for your system, you can present the data as a UML Class diagram. 
 
 If your system is not naturally object-oriented, you can create an Entity Relationship diagram (ERD).
 
-### Interaction scenarios
+#### Interaction scenarios
 
 To document the dynamic behaviour of the system, for each interesting feature, you should develop a UML Sequence diagram, with components as “objects” and calls between them. Think, which features of your system should be described as sequence diagrams.
 
-### Low-fidelity user interface
+#### Low-fidelity user interface
 
 Finally, you should develop low-fidelity sketches/wireframes of a few key screens. At this stage, it’s important to show the overall look and feel of your app, as well as the high-level user-interaction design. Low-fidelity wireframes are usually black and white.
 
 Looking at the wireframes, anyone should be able to get an idea of what will be developed. Test your wireframes with your client, encourage them to give feedback. 
 
 
-## Project management
+### Project management
 
 There are two sections in this document:
 
@@ -119,7 +128,7 @@ You should start the document with a storymap. Include all five sprints. Don't f
 
 The second section should define a project plan.
 
-### Sprint 1
+#### Sprint 1
 
 For **Sprint 1**, you should include the following:
 
@@ -128,7 +137,7 @@ For **Sprint 1**, you should include the following:
 
 Most Sprint 1 tasks will not be related to any user story. For example, you will be creating the project documentation, setting up the project repository, setting up the project management tools, etc.
 
-### Sprint 2
+#### Sprint 2
 
 For **Sprint 2**, you should include:
 
@@ -139,7 +148,7 @@ For **Sprint 2**, you should include:
 
 The tasks should correspond with the user stories.
 
-### Sprints 3, 4, and 5
+#### Sprints 3, 4, and 5
 
 For the remaining sprints, you should include:
 
@@ -153,16 +162,18 @@ Do not list the tasks yet. You will be planning them later, before the start of 
 
 Based on the planned **tasks**, set up and keep current Github Issues. 
 
-## Teamwork
+Close issues by tagging them in a Pull Request or commit (see <https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue>).
+
+### Teamwork
 
 This document includes two sections:
 
 1. Team canvas
 2. Belbin team roles
 
-### Team canvas
+#### Team canvas
 
-The Team canvas should be based on the template found here <http://theteamcanvas.com/use>/. You may choose the Basic or the Full version of the canvas.
+The Team canvas should be based on the template found here <http://theteamcanvas.com/use>/. You must choose the Full version of the canvas.
 
 Use the instructions to facilitate the Team canvas session. An in-person session is recommended. However, if you choose an online format, you may use Mural or any other whiteboard tool. While creating your Team canvas, think about the high-level roles of each team member (e.g.: Scrum Master, Product Owner, Frontend Developer, Backend Developer, QA Engineer, DevOps Engineer, UI/UX Designer, Floater etc.). Think about which roles are necessary for your project. Each team member may be assigned to multiple roles, and each role may include multiple team members. 
 
@@ -173,7 +184,7 @@ There are two special Scrum roles that must be defined for each sprint:
 
 You may choose to elect a Scrum Master and Product Owner for the whole project or switch roles for each sprint so that more team members can get product management experience. A good overview of skills and responsibilities of a Scrum Master and a Product Owner: <https://productmanagerhq.com/scrum-master-vs-product-owner/>.
 
-### Belbin team roles
+#### Belbin team roles
 
 For each of the team member, list their **preferred**, **manageable** and **least preferred** roles.
 

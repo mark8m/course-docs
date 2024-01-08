@@ -3,9 +3,9 @@
 **eClass Page**: https://eclass.srv.ualberta.ca/course/view.php?id=95431
 
 ## Lecture
-
-* **Fridays**, 9:00AM to 10:50AM, CSC B-10
 * In-person
+* **Fridays**, 9:00AM to 10:50AM, CSC B-10
+
 
 ## Labs/Seminars
 * In-person

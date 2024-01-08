@@ -16,7 +16,7 @@
 * **Sunday**, Jan 21 12:00PM to 3:00PM, ETLC 1-007
   
 ## Hackathon    
-* **Friday** evening, Jan 19th, 5:00PM - 7:50PM, ETLC 1-007
+* **Friday** evening, Jan 19th, 5:00PM - 9:00PM, ETLC 1-007
 * **Saturday**, January 20th, 9:00AM - 6:00PM 
 
 ## Presentations and Demo Fair

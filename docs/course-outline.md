@@ -25,8 +25,8 @@
 
 
 
-## Dr. Mark Polak
-
+## Instructor
+* **Dr. Mark Polak**
 * **Email**: <mpolak1@ualberta.ca>
 * **Office**: CAB 3-05
 * **Office hours (CAB 3-05):** Before class or after class by appointment

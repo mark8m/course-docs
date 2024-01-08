@@ -18,18 +18,13 @@
 * Friday, Dec 8th 9:00AM - 10:50AM, CSC B-10
 * In-person
 
-## Dr. Hazel Campbell
 
-* **Email**: <hazel.campbell@ualberta.ca>
-* **Office**: ATH 4-05
-* **Office hours (ATH 4-05):** Friday, 11:10 to 12:00
-* **Office hours (Zoom):** _(email to make an appointment)_
 
 ## Dr. Mark Polak
 
 * **Email**: <mpolak1@ualberta.ca>
 * **Office**: CAB 3-05
-* **Office hours (CAB 3-05):** Wednesday, 11:10 to 12:00
+* **Office hours (CAB 3-05):** Before class or after class by appointment
 * **Office hours (Zoom):** _(email to make an appointment)_
 
 ## Course Content

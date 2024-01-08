@@ -1,29 +1,35 @@
-# University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> Winter 2024
+# University of Alberta <br> CMPUT 401 - Software Process and Product Management <br> LEC-B1 <br> Winter 2024
 
-**eClass Page**: <https://eclass.srv.ualberta.ca/course/view.php?id=95431>
+**eClass Page**: https://eclass.srv.ualberta.ca/course/view.php?id=95431
 
 ## Lecture
-
-* Friday, 9:00AM to 10:50AM, CSC B-10
 * In-person
+* **Fridays**, 9:00AM to 10:50AM, CSC B-10
+
 
 ## Labs/Seminars
-
+* In-person
 * **Wednesdays**, 9:00AM to 10:50AM, CSC B-10
 * **Some Mondays**, 9:00AM to 10:50AM
     * Monday, January 15th, CSC B-10
-* Friday, January 19th, 5:00PM - 9:00PM, ETLC 1-007
-* Saturday, January 20th, 9:00AM - 3:00PM, ETLC 1-007
-* Sunday, January 21st, 9:00AM - 3:00PM, ETLC 1-007
-* Wednesday, April 10th 9:00AM - 10:50AM, CSC B-10
-* Friday, April 12th 9:00AM - 10:50AM, CSC B-10
-* In-person
+    * Monday, March 11th, CSC B-10
+* **Sunday**, Jan 21 12:00PM to 3:00PM, ETLC 1-007
+  
+## Hackathon    
+* **Friday** evening, Jan 19th, 5:00PM - 9:00PM, ETLC 1-007
+* **Saturday**, January 20th, 9:00AM - 6:00PM, ETLC 1-007 
+
+## Presentations and Demo Fair
+* **Wednesday**, Apr 10th 9:00AM - 10:50AM, CSC B-10
+* **Friday**, Apr 12th 9:00AM - 10:50AM, CSC B-10
+
+
 
 ## Dr. Mark Polak
 
 * **Email**: <mpolak1@ualberta.ca>
 * **Office**: CAB 3-05
-* **Office hours (CAB 3-05):** Wednesday, 11:10 to 12:00
+* **Office hours (CAB 3-05):** Before class or after class by appointment
 * **Office hours (Zoom):** _(email to make an appointment)_
 
 ## Course Content
@@ -32,7 +38,7 @@
 
 **Prerequisites:** CMPUT 301.
 
-**Objectives and Learning Outcomes:** This course aims to provide students with an authentic experience of working with a client as a team member. We are partnering with the Community Service-Learning Office to create opportunities for you to work on projects identified by community-based organizations as serving their needs. In the process, you will have to apply your knowledge on analyzing requirements, designing, developing, documenting, and testing software, and develop new technical skills working with new programming languages and tools. You will also acquire new knowledge on how to work with others, how to interact with clients to elicit their needs and explain how the delivered software meets these needs, how to negotiate task sharing and manage one’s tasks, how to plan and how to mitigate risks.
+**Objectives and Learning Outcomes:** This course aims to provide students with an authentic experience of working with a client as a team member.  Some clients are non-profit organizations or Universities, while others are startup companies. We are partnering with the Community Service-Learning Office to create opportunities for you to work on projects identified by community-based organizations as serving their needs. In the process, you will have to apply your knowledge on analyzing requirements, designing, developing, documenting, and testing software, and develop new technical skills working with new programming languages and tools. You will also acquire new knowledge on how to work with others, how to interact with clients to elicit their needs and explain how the delivered software meets these needs, how to negotiate task sharing and manage one’s tasks, how to plan and how to mitigate risks.
 
 **Course Schedule and Assigned Readings:**
 
@@ -56,14 +62,6 @@ The weekly topic schedule is likely to be updated during the term; in general te
 **Recommended or Optional Learning Resources**: Additional resources may be provided by links from this site or the course eClass page.
 
 **Course Fees**: No fees are anticipated. Every effort has been made to provide access to online services needed for free. However, since every course project is unique, an unanticipated online service that requires a paid subscription may be needed. 
-
-### On-Line Homework Disclaimer
-
-Due to the nature of the course, which involves homework learning technologies that require third party services, online homework is a component of this course and is provided by at least two third-party companies. However, this company will not have access to any assessment information. They will have access to your homework, but not to your grades. If you have any concerns about this, please contact the instructor of this course.
-
-1. Registration in the system and any monetary transactions are of your own accord and not the responsibility of the University.
-2. Students should be mindful of protecting their personal information and should be aware of how their personal information might be used and/or shared.
-3. Students MUST NOT use their @ualberta email address or CCID to register into the system and instead should use a non-identifying email address or account.
 
 ### Academic Success Centre
 
@@ -107,7 +105,7 @@ Besides the final exam, your individual work component involves:
 
 1. One assignment (due date per class schedule)
 2. Reflection forms (four peer-review forms (one after each Sprint) and a final reflection), due by the end of each Sprint demo day (5) and by the end of the class (1)
-3. In-class participation
+3. In-class and hackathon participation
 
 | Component                                                          | Weight  |
 | ------------------------------------------------------------------ | ------- |
@@ -211,7 +209,7 @@ It is imperative that students review the dates of all course assessments upon r
 
 Unless otherwise instructed by an instructor, **this course requires attendance in-person.**
 
-**Recordings of Synchronous Activities**:
+<!-- **Recordings of Synchronous Activities**:
 Please note that class times for this course **may be recorded**. Recordings of this course will be used for the purposes of allowing students who missed class due to illness to review missed lectures, for review before the final exam, and will be disclosed to other students enrolled in this section of the class, all instructors and teaching assistants.
 Students have the right to not participate in the recording and are advised to turn off their cameras and audio prior to recording; they can still participate through text-based chat. It is recommended that students remove all identifiable and personal belongings from the space in which they will be participating.
 Recordings will be made available until the last day of classes, etc. and accessible by eClass, Google Drive, or Zoom Cloud Storage. Please direct any questions about this collection to the instructor of this course.
@@ -229,7 +227,7 @@ Tablets and mobile devices are incompatible with remote proctoring services.
 
 Home-Based Lab Activities: As part of the learning experience in this course, you will be required to undertake certain activities in or around your place of residence. To ensure that you undertake the activity safely and fully informed of the risks, please review the [University of Alberta’s Remote Learning Lab-Based Assignment Information Advisory](https://www.ualberta.ca/finance-procurement-planning/media-library/insurance-risk-assessment/remote-learning-lab-based-assignment-information-advisory.pdf). If you have questions or concerns, contact your instructor. 
 
-Student Resources for Remote Learning: Online learning may be new to you. Check out tips for success and find out more about online learning on the [Campus Life](http://ualberta.ca/campus-life/index.html) page, and specifically on the [Academic Skills Online & Remote Delivery Resources](https://www.ualberta.ca/current-students/academic-success-centre/resources/index.html) page.
+Student Resources for Remote Learning: Online learning may be new to you. Check out tips for success and find out more about online learning on the [Campus Life](http://ualberta.ca/campus-life/index.html) page, and specifically on the [Academic Skills Online & Remote Delivery Resources](https://www.ualberta.ca/current-students/academic-success-centre/resources/index.html) page. -->
 
 ## Student Responsibilities
 
@@ -320,4 +318,4 @@ Any typographical errors in this Course Outline are subject to change and will b
 * 2023-09-05 - Exam collaboration policy, add meeting dates and times.
 * 2023-09-07 - Room numbers and office hours update
 * 2023-09-20 - Added location of where meeting minutes should be placed (in `/docs` folder labeled as `meeting-minutes.md`)
-* 2024-01-05 - Updated docs for Winter 2024
+* 2024-01-05 - Edited for Winter 2024 term

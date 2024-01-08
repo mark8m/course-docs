@@ -4,19 +4,25 @@
 
 ## Lecture
 
-* Friday, 9:00AM to 10:50AM, CSC B-10
+* Fridays, 9:00AM to 10:50AM, CSC B-10
 * In-person
 
 ## Labs/Seminars
 
 * **Wednesdays**, 9:00AM to 10:50AM, CSC B-10
 * **Some Mondays**, 9:00AM to 10:50AM
-    * Monday, September 11th, CSC B-10
-    * Monday, October 30th, (room TBD)
-* Friday, Sep 15th, 5:00PM - 7:50PM, ETLC 1-007
-* Wednesday, Dec 6th 9:00AM - 10:50AM, CSC B-10
-* Friday, Dec 8th 9:00AM - 10:50AM, CSC B-10
-* In-person
+    * Monday, January 15th, CSC B-10
+    * Monday, March 11th, (CSC B-10)
+* **Sunday**, Jan 21 12:00PM to 3:00PM, ETLC 1-007
+  
+## Hackathon    
+* Friday evening, Jan 19th, 5:00PM - 7:50PM, ETLC 1-007
+* Saturday, January 20th, 9:00AM - 6:00PM 
+
+## Presentations and Demo Fair
+* Wednesday, Apr 10th 9:00AM - 10:50AM, CSC B-10
+* Friday, Apr 12th 9:00AM - 10:50AM, CSC B-10
+
 
 
 

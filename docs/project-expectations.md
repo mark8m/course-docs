@@ -4,7 +4,17 @@
 
 Please use the repository provided by the teaching team.
 
-All repos should be owned by CMPUT401-UAlberta, so if you need additional repos, please ask your TA to create any additional repos you need and add you to them. This so if a student drops, deletes their github, or we need to revist something after the end of the semester. (Instructors are required to keep assignments & exams for 1 year in case of grade appeals or cheating, etc.).
+All repos should be owned by UAlberta-CMPUT401, so if you need additional repos, please ask your TA to create any additional repos you need and add you to them. This so if a student drops, deletes their github, or we need to revist something after the end of the semester. (Instructors are required to keep assignments & exams for 1 year in case of grade appeals or cheating, etc.).
+
+## Third Party Applications and Github Integrations
+
+Third party applications and Github integrations such as Jira are generally not allowed in this course.   
+
+All marking will be done on work in your Github repository, not on any third party tool usage.
+
+REMEMBER: A big part of this course is focusing on MVP. That means not spending too much time on tooling.
+
+If there is a strong case for a third party application or Github integration, send an e-mail to the teaching team.
 
 ## Meeting Minutes
 

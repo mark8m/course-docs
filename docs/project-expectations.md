@@ -16,6 +16,12 @@ REMEMBER: A big part of this course is focusing on MVP. That means not spending 
 
 If there is a strong case for a third party application or Github integration, send an e-mail to the teaching team.
 
+## Github Actions
+
+Github gives us 3000 action minutes per month with Github Education, but they're all pooled and so because some teams use more than others we will eventually run out.
+
+To ensure you can still run your actions, please set up a Runner on Cybera. There are some instructions here: <https://youtu.be/SASoUr9X0QA>
+
 ## Meeting Minutes
 
 Meeting minutes are meant to keep track of what has been discussed during a meeting. 

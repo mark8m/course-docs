@@ -63,9 +63,10 @@ _**Revisions**, **Teamwork**, and **Wildcard** deliverables are similar to the o
 
 ### Testing
 
-* All functionalities are sufficiently tested; tests cover whatever is important for the project (back-end logic, user interface, ...)
-* At least one online testing tool has been tried and its reports have been analyzed (example: Selenium)
-* Manual acceptance tests cover the implemented requirements
+* All functionalities are sufficiently tested; tests cover whatever is important for the project (back-end logic, user interface, ...) and documented
+* There is a "Requirements Traceability Matrix" tracking the testing of all functionalities
+* At least one static code analysis testing tool (example: SonarQube) has been tried and its reports have been analyzed with an explanation of what the tool does and what has been analyzed in your code
+* Manual acceptance tests (if applicable, i.e., functionality cannot be tested automatically) cover the implemented requirements
 * CI/CD covers some of the functionalities
 
 ### CMPUT 401 Portal

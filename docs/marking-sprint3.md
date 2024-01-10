@@ -26,7 +26,7 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 | **Total**       | **100** |
 
 
-_**Revisions**, **Codebase**, **Testing**, **Teamwork**, and **Wildcard** deliverables are similar to the ones in the previous sprint._
+_**Revisions**, **Codebase**, **Teamwork**, and **Wildcard** deliverables are similar to the ones in the previous sprint._
 
 ### UX, UI design
 
@@ -34,6 +34,17 @@ _**Revisions**, **Codebase**, **Testing**, **Teamwork**, and **Wildcard** delive
 * UX (user experience) is well thought-out and designed for the target audience
 * UI design principles and usability heuristics are applied and described in the docs (e.g. <https://www.nngroup.com/articles/ten-usability-heuristics/>)
 * Accessibility is considered and described in the docs (e.g. colors pass contrast check, see <https://www.alarmsystem.no/color-contrast/>)
+
+### Testing
+* Tests exist and run for (as many as possible of) the demonstrated functionalities
+    * Tests should be Acceptance Tests for testing user stories from the user's point-of-view
+    * Tests should be labelled with what user story they're for
+    * Tests should be tracked in a "Requirements Traceability Matrix"
+    * Tests should include success and failure scenarios (e.g. test good password and bad password)
+    * Tests should ideally be user interface tests using UI test automation tools (e.g. selenium for web UIs)
+    * API should be tested if applicable
+    * Unit tests (tests per function, method, class in the code) are **not** required
+* At least one self-hosted Runner for Github Actions is setup
 
 
 ### Sprint planning

@@ -2,7 +2,7 @@
 
 ## Project Storage
 
-Please use the repository from GitHub classroom for documentation. The link for the current semester can be found on eClass.
+Please use the repository provided by the teaching team.
 
 All repos should be owned by CMPUT401-UAlberta, so if you need additional repos, please ask your TA to create any additional repos you need and add you to them. This so if a student drops, deletes their github, or we need to revist something after the end of the semester. (Instructors are required to keep assignments & exams for 1 year in case of grade appeals or cheating, etc.).
 

@@ -13,26 +13,26 @@ See [Course Outline](../course-outline/).
 
 ### Amir Salimi
 
-**Email**: <asalimi@ualberta.ca> 
+**Email**: <asalimi@ualberta.ca>  
 **Office hours**: TBD
 
 ### Mashrura Tasnim
 
-**Email**: <mashrura@ualberta.ca> 
+**Email**: <mashrura@ualberta.ca>  
 **Office hours**: TBD
 
 ### Mohayeminul Islam
 
-**Email**: <mdmohaye@ualberta.ca> 
+**Email**: <mdmohaye@ualberta.ca>  
 **Office hours**: TBD
 
 ### YuJing Qu
 
-**Email**: <qu8@ualberta.ca> 
+**Email**: <qu8@ualberta.ca>  
 **Office hours**: TBD
 
 ### Aniket Mishra
 
-**Email**: <mishra2@ualberta.ca> 
+**Email**: <mishra2@ualberta.ca>  
 **Office hours**: TBD
 

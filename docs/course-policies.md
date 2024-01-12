@@ -23,7 +23,7 @@ Detailed description of the optimization model: [Forming CMPUT 401 Teams as a Mi
 
 We will use the following process to form teams:
 
-1. Students fill the Belbin Team Roles Questionnaire (on paper) and calculate their results
+1. Students fill the Belbin Team Roles Questionnaire that calculates their results - link will be posted on eClass
 2. Students fill the Student Experience Form, indicating, among other questions, their assessed team roles, skills and career goals - link will be posted on eClass
 3. Students rank the projects based on their personal preferences - link will be posted on eClass
 4. Instructor will assign the students into teams, using the criteria above. The best effort to accommodate students’ preferences will be made. However, we can not guarantee that every student will be assigned to the projects of their top choice.

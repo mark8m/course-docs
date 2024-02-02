@@ -319,3 +319,4 @@ Any typographical errors in this Course Outline are subject to change and will b
 * 2023-09-07 - Room numbers and office hours update
 * 2023-09-20 - Added location of where meeting minutes should be placed (in `/docs` folder labeled as `meeting-minutes.md`)
 * 2024-01-05 - Edited for Winter 2024 term
+* 2024-02-02 - Specified where scrum roles should be, removed Belbin role links

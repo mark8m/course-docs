@@ -52,7 +52,7 @@ _**Revisions**, **Codebase**, **Teamwork**, and **Wildcard** deliverables are si
 * Storymap clearly represents the current state of the project
 * Project plan is updated to reflect the current state of the project
 * Velocity is re-estimated for Sprints 4 and 5
-* Sprint 4 tasks are included in the project plan
+* Sprint 4 tasks are included in the project plan (in their own section, separate of the team canvas)
 * Detailed Github Issues for Sprint 4 correspond with the storymap and project plan, have relevant states, milestones, labels and assignees
 
 

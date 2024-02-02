@@ -83,7 +83,7 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 * Meeting minutes exist for all meetings and include all required information
 * Team is working well with the client (evidence would include the TA being CC'ed on client communications and meeting minutes)
 * Team Canvas provides a clear overview of the team's profile
-* Scrum roles are defined for the sprint
+* Scrum roles are defined for the sprint (in their own section, separate of the team canvas)
 * Belbin roles are defined for each team member
 
 ### Formatting

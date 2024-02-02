@@ -8,8 +8,8 @@ You may need to be logged into your UAlberta account to access these.
 * [Multi-Use Release Form](downloads/Multi-Use Release Form (CMPUT 401).pdf)
 * [Intellectual Property Agreement](downloads/Intellectual Property Agreement.pdf)
     * Application domain: reuse some words from the client's domain. For example: if the project aims to develop an app for the student union to welcome new students on campus, the application domain would be "student onboarding".
-* [Paper Belbin Roles Worksheet](downloads/BELBIN-questionnaire.pdf)
-    * [Belbin Roles Spreadsheet](https://docs.google.com/spreadsheets/d/1oqthw0alqIhEz3xvuAArIusf1de6HHq3AToODfmZ4nY)
+<!-- * [Paper Belbin Roles Worksheet](downloads/BELBIN-questionnaire.pdf)
+    * [Belbin Roles Spreadsheet](https://docs.google.com/spreadsheets/d/1oqthw0alqIhEz3xvuAArIusf1de6HHq3AToODfmZ4nY) -->
 
 ## Readings
 

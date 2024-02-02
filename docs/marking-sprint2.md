@@ -77,7 +77,7 @@ If late for more than 24 hours: penalty at the instuctor's discretion, min. 10 m
 * All team members have contributed to the sprint; each team member worked across multiple types of tasks (management, coding, testing, documentation, etc.)
 * Team works well with the TA (asks questions/advice, reports progress meaningfully, addresses feedback, is kept in-the-loop about client)
 * Team as a whole has made real progress since the last sprint - accomplished what they had planned to
-* Scrum roles are defined for the sprint
+* Scrum roles are defined for the sprint (in their own section, separate of the team canvas)
 
 ### Wildcard
 

@@ -102,7 +102,7 @@ List useful informational resources around the tools and frameworks that you pla
 
 The software design document should be consistent with the requirements document, it should document and explain how the design will actually deliver the required features.
 
-There is no one “right” way to create this document. Use your best judgement to choose the notations and tools. In any case, make sure that this document is meaningful with respect to your system. Be selective in what you portray about the architecture -- don’t go into too much detail but don’t make it overly superficial either. Suppose a new developer comes to the project: describe what is not obvious and definitely important to know. As for practical guidelines, each diagram should be described and motivated; you should use a consistent naming convention, and key elements should be annotated with further comments to explain their roles.
+There is no one "right" way to create this document. Use your best judgement to choose the notations and tools. In any case, make sure that this document is meaningful with respect to your system. Be selective in what you portray about the architecture -- don’t go into too much detail but don’t make it overly superficial either. Suppose a new developer comes to the project: describe what is not obvious and definitely important to know. As for practical guidelines, each diagram should be described and motivated; you should use a consistent naming convention, and key elements should be annotated with further comments to explain their roles.
 
 Before getting started, refresh your understanding of UML, this book is recommended (chapters 1, 3, 4): <https://learning.oreilly.com/library/view/uml-distilled-a/0321193687/>. 
 
@@ -114,6 +114,10 @@ What’s the right scope of the architecture diagram? “One that’s big enough
 Make sure that your diagram includes all layers.
 
 You can have more than one diagram if your project’s complexity requires it. 
+
+#### Detailed list of technologies
+List the possible tech stack you will be using. 
+Include links and descriptions of any libraries, frameworks, and tools you will be using.
 
 #### Major data elements 
 

@@ -22,6 +22,11 @@ Github gives us 3000 action minutes per month with Github Education, but they're
 
 To ensure you can still run your actions, please set up a Runner on Cybera. There are some instructions here: <https://youtu.be/SASoUr9X0QA>
 
+## Sprint Releases
+To indicate which commit you would like to be evaluated, create a GitHub release by the sprint deadline.  
+The release should not be a pre-release or draft release.  
+More information can be found here: <https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases>
+
 ## Meeting Minutes
 
 Meeting minutes are meant to keep track of what has been discussed during a meeting. 

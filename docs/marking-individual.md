@@ -15,7 +15,7 @@ Each form is marked as all-or-nothing.
 | Sprint 3 form                    | 10      |
 | Sprint 4 form                    | 10      |
 | Sprint 5 form                    | 10      |
-| Final individual reflection form | 40      |
+| Final individual reflection form | 50      |
 | **Total**                        | **100** |
 
 ## Participation
